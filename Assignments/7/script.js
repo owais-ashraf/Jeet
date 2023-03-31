@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var names = ["Ali", "Asad","Sadaf","Saad","das","fahad","fasi","adnan","jamal","kali"]
 console.log(names)
 
@@ -18,3 +19,17 @@ function sumOfNum(arr){
     
 }
 console.log(sumOfNum([2,3,4]))
+=======
+// var names = ["Ali", "Asad","Sadaf","Saad","das","fahad","fasi","adnan","jamal","kali"]
+// console.log(names)
+
+
+let myArray = ["Toyota","Honda","BMW","Nissan","Audi","Isuzu","Tata","Kia"]
+function arr(myArray){
+    return myArray;
+}
+var cars = arr(myArray)
+console.log(cars)
+
+
+>>>>>>> 588c67c3dcc48380239a7885184e05d28e43ac51
