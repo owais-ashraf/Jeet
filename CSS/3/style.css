@@ -1,0 +1,25 @@
+.anchor{
+    color: rgb(0, 113, 133);
+}
+.price{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0,118,0);
+}
+.button1{
+    background-color: rgb(255,216,20);
+    height: 25px;
+    width: 110px;
+    font-family: sans-serif;
+    border: 0;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+.button2{
+    background-color: rgb(255,164,28);
+    height: 25px;
+    width: 110px;
+    font-family: sans-serif;
+    border: 0;
+    border-radius: 15px;
+}
