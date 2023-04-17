@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+}
+.container{
+    margin: 0 auto;
+    margin-top: 5%;
+}
+.display{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.text{
+    color: white;
+    font-family: 'Arial Narrow';
+    margin-bottom: 3px;
+
+}
+.new{
+    background-color: white;
+    height: auto;
+    width: 120;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    
+}
+
+#uber{
+    color: white;
+    background-color: black;
+    height: 35px;
+    width: 120px;
+    border: 0;
+}
+#amazon{
+    background-color: rgb(255,216,20);
+    height: 25px;
+    width: 150px;
+    font-family: sans-serif;
+    border: 0;
+    border-radius: 15px;
+}
+#github{
+    background-color: rgb(46,164,79);
+    color: aliceblue;
+    height: 30px;
+    width: 90px;
+    font-family: sans-serif;
+    border: 0;
+    border-radius: 4px;
+}
+#bootstrap{
+    background-color: rgb(121,82,179);
+    color: antiquewhite;
+    height: 30px;
+    width: 90px;
+    font-family: sans-serif;
+    border: 0;
+    border-radius: 2px;
+    margin-right: 5px;
+}
+#bootstrap2{
+    height: 30px;
+    width: 90px;
+    font-family: sans-serif;
+}
+#linked1{
+    background-color: rgb(10,102,194);
+    color: white;
+    height: 35px;
+    width: 250px;
+    font-size: medium;
+    font-weight: 500;
+    font-family: sans-serif;
+    border: 0;
+    border-radius: 17px;
+    margin-right: 5px;
+}
+#linkedin2{
+    
+    color: blue;
+    height: 35px;
+    width: 100px;
+    font-size: medium;
+    font-weight: 500;
+    font-family: sans-serif;
+    border: solid 0.5px;
+    border-color: blue;
+    border-radius: 17px;
+    margin-right: 5px;
+}
