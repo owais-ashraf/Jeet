@@ -1,0 +1,71 @@
+body{
+    margin: 0 auto;
+}
+.container{
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.check{
+    padding-left: 165px;
+}
+input{
+    padding: 7px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+.space{
+    padding-right: 100px;
+    width: 15%;
+}
+.mail{
+    padding-right: 132px;
+    width: 15%;
+}
+.mobile{
+    padding-right: 124px;
+}
+.gender{
+    padding-right: 123px;
+}
+.D-O-B{
+    padding-right: 83px;
+}
+.add-label{
+    padding-right: 112px;
+}
+.city{
+    padding-right: 135px;
+}
+.area{
+    padding-right: 102px;
+}
+.state{
+    padding-right: 132px;
+}
+.qualification{
+    padding-right: 78px;
+}
+.checkbox{
+    padding-left: 100px;
+}
+.student{
+    text-align: right;
+    color: red;
+    text-decoration: underline;
+}
+.form{
+    background-color:lightgray;
+}
+
+.address{
+    height: 100px;
+    width: 500px;
+}
+.button{
+    background-color: rgb(11, 141, 11);
+    height: 40px;
+    width: 100px;
+    color: white;
+    border-radius: 7px;
+}
