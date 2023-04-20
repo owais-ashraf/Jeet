@@ -1,0 +1,84 @@
+@font-face {
+    font-family: shiningMonday;
+    src: url(ShiningMonday-GOoGZ.ttf);
+}
+body{
+    font-family:'Trebuchet MS';
+    background-color: rgb(114, 84, 3);
+    color: white;
+}
+.header{
+    background-color: rgba(167, 124, 6, 0.774);
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    width: 800px;
+    text-align: center;
+    margin-left: 20%;
+    padding: 2%;
+    position: relative;
+}
+.navbar{
+    background-color: rgba(167, 124, 6, 0.774);
+    height: auto;
+    text-align: center;
+    margin-top: 2%;
+    padding: 2%;
+    position: relative;
+}
+div nav ul li{
+    display: inline-block;
+    tab-size: 4;
+    font-family: shiningMonday;
+    font-size: x-large;
+    padding-left: 50px;
+    
+}
+.secondDiv{
+    
+    background-color: white;
+    display: inline-block;
+    height: 800px;
+    width: 1000px;
+    margin-left: 12%;
+
+
+}
+   
+.heading{
+    
+    color: rgba(167, 124, 6);
+    font-family: shiningMonday;
+    text-align: center;
+}
+
+.square-div{
+    background-color:rgba(167, 124, 6);
+    display: inline-block;
+    height: auto;
+    width: 200px;
+    margin: 0 auto;
+    margin-left: 10%;
+    margin-top: 50px;
+    text-align: center;
+    padding: 70px 0;
+    text-align: center;
+}
+
+h2{
+    color: rgba(167, 124, 6);
+    font-family: shiningMonday;
+    margin-left: 5%;
+}
+hr{
+    border: 2px dotted #000;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.para{
+    color: black;
+    margin-left: 5%;
+    margin-right: 7%;
+}
